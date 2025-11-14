@@ -1,3 +1,3 @@
-# repository for git practice
+# Lecture for beginner
 
 practice for pull request
